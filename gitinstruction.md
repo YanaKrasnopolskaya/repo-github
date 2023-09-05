@@ -1,5 +1,5 @@
-![gitimage.png](gitimage.png)
-# Контроль версий ***GIT***
+![git1.png](git1.png)
+# ***GIT***
 
 ### Содержание
 
